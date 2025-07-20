@@ -1,1 +1,2 @@
 # github-adapter-test
+Simple private repo for testing out the github adapter 
