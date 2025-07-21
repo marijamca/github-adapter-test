@@ -1,3 +1,3 @@
 # github-adapter-test
 Simple private repo for testing out the github adapter.
-This is test pr number 2
+This is test pr number 2.1
