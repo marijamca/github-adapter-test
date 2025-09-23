@@ -1,2 +1,2 @@
 # github-adapter-test
-Testing webhook
+Testing github webhook
